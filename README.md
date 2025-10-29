@@ -63,13 +63,6 @@ Here's the tech I'm currently working with:
     * Leading growth and outreach campaigns using creative strategies.
 
 ---
-
-## 🔥 My GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=salmanzzoha&show_icons=true&locale=en&theme=tokyonight&hide_border=true" alt="salmanzzoha's GitHub stats" height="195" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=salmanzzoha&layout=compact&locale=en&theme=tokyonight&hide_border=true" alt="salmanzzoha's top langs" height="195" />
-  <br>
   <img src="https://streak-stats.demolab.com?user=salmanzzoha&locale=en&theme=tokyonight&hide_border=true&border_radius=5" height="220" alt="streak graph" />
 </div>
 
