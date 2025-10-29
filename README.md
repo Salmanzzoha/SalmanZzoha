@@ -63,10 +63,6 @@ Here's the tech I'm currently working with:
     * Leading growth and outreach campaigns using creative strategies.
 
 ---
-  <img src="https://streak-stats.demolab.com?user=salmanzzoha&locale=en&theme=tokyonight&hide_border=true&border_radius=5" height="220" alt="streak graph" />
-</div>
-
----
 
 <div align="center">
   ⭐ <i>“Building code, creativity, and compassion — one project at a time.”</i>
