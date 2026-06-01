@@ -23,20 +23,6 @@
   <img src="https://komarev.com/ghpvc/?username=salmanzzoha&label=Profile%20Views&color=0e75b6&style=flat-square" alt="profile views"/>
 </div>
 
----
-
-## 🐍 My Contribution Snake
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/salmanzzoha/salmanzzoha/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/salmanzzoha/salmanzzoha/output/github-contribution-grid-snake.svg">
-    <img src="https://raw.githubusercontent.com/salmanzzoha/salmanzzoha/output/github-contribution-grid-snake.svg" alt="GitHub Snake" width="90%" />
-  </picture>
-</div>
-
----
-
 ## 🧠 About Me
 
 **Computer Science and Engineering** student at **American International University – Bangladesh (AIUB)**  
