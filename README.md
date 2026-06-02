@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Salman Zzoha</h1>
-<h3 align="center">CSE Student | Future QA Engineer & Software Testing Specialist</h3>
+<h1 align="center">Bonjur, I am Salman Zzoha</h1>
+<h3 align="center"> Future QA Engineer & Software Testing Specialist</h3>
 
 <div align="center">
   <img height="180" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" alt="coding"/>
