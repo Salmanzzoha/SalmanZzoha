@@ -60,12 +60,10 @@ Python + Streamlit resume analyzer that scores resumes against job descriptions,
 </td>
 </tr>
 </table>
----
- 
+
 🧬 Tech & Tools
  
 <div align="center">
-### Languages
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" height="48" alt="Python"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" height="48" alt="Java"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="48" alt="C++"/>
@@ -73,27 +71,15 @@ Python + Streamlit resume analyzer that scores resumes against job descriptions,
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="48" alt="JavaScript"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" height="48" alt="HTML5"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" height="48" alt="CSS3"/>
-### Frameworks & Testing
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" height="48" alt="Selenium"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" height="48" alt="React"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="48" alt="Postman"/>
 <img src="https://www.vectorlogo.zone/logos/jira/jira-icon.svg" height="48" alt="Jira"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="48" alt="Git"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/streamlit/streamlit-original.svg" height="48" alt="Streamlit"/>
-### Workflow
 <img src="https://img.icons8.com/color/48/agile.png" height="42" alt="Agile"/>
 <img src="https://img.icons8.com/color/48/scrumm.png" height="42" alt="Scrum"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maven/maven-original-wordmark.svg" height="42" alt="Maven"/>
-</div>
----
- 
-📊 GitHub Analytics
- 
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=salmanzzoha&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00c9ff&icon_color=00c9ff&text_color=c9d1d9" height="165" alt="GitHub stats"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=salmanzzoha&theme=tokyonight&hide_border=true&background=0d1117&stroke=00c9ff&ring=00c9ff&fire=00c9ff&currStreakLabel=00c9ff" height="165" alt="streak stats"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=salmanzzoha&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00c9ff&text_color=c9d1d9" height="165" alt="top langs"/>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=salmanzzoha&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00c9ff&line=00c9ff&point=ffffff" alt="activity graph"/>
 </div>
 
  
