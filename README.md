@@ -14,7 +14,7 @@
 <img src="https://komarev.com/ghpvc/?username=salmanzzoha&label=Profile%20Views&color=00c9ff&style=for-the-badge" alt="profile views"/>
 </div>
 <br/>
-## ⚡ About Me
+⚡ About Me
  
 ```yaml
 role: Final-Year Computer Science & Engineering Student
@@ -26,13 +26,13 @@ currently_exploring: [Jira, Postman, CI/CD Pipelines, Agile & Scrum]
 mission: "Engineering confidence into software, one test case at a time."
 ```
  
-- 🔬 **Lead Author** — IEEE PECCII 2026, MobileNetV3 deep learning framework
-- 🧠 **Lead Researcher** — Explainable AI framework for depression screening across social platforms (temporal risk-drift modeling, SHAP + attention-based explainability)
-- 🧪 Building production-style **Selenium/Java test automation suites** (Page Object Model, TestNG, Maven) for real-world web applications
-- 🎯 Actively seeking **internships & entry-level roles** in QA / Test Automation / SRE
----
+ 🔬 Lead Author — IEEE PECCII 2026, MobileNetV3 deep learning framework
+🧠 Lead Researcher — Explainable AI framework for depression screening across social platforms (temporal risk-drift modeling, SHAP + attention-based explainability)
+🧪 Building production-style **Selenium/Java test automation suites** (Page Object Model, TestNG, Maven) for real-world web applications
+🎯 Actively seeking **internships & entry-level roles** in QA / Test Automation / SRE
+
  
-## 🛰️ Featured Work
+ 🛰️ Featured Work
  
 <table>
 <tr>
@@ -42,19 +42,19 @@ Selenium + Java + TestNG + Maven automation suite for a luxury e-commerce platfo
  
 </td>
 <td width="50%" valign="top">
-**📚 Library System QA Suite**
+📚 Library System QA Suite**
 End-to-end Selenium automation (auth, admin approvals, borrow/return flows) for a PHP/MySQL library platform, delivered with an IEEE-829-style test plan.
  
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-**🧬 Explainable Depression Detection**
+🧬 Explainable Depression Detection**
 MentalBERT + Bi-LSTM with attention pooling for temporal depression risk detection across Reddit & Twitter, explained via SHAP and attention weights.
  
 </td>
 <td width="50%" valign="top">
-**📄 SmartATS**
+📄 SmartATS
 Python + Streamlit resume analyzer that scores resumes against job descriptions, built as a portfolio-ready showcase project.
  
 </td>
@@ -62,7 +62,7 @@ Python + Streamlit resume analyzer that scores resumes against job descriptions,
 </table>
 ---
  
-## 🧬 Tech & Tools
+🧬 Tech & Tools
  
 <div align="center">
 ### Languages
@@ -87,7 +87,7 @@ Python + Streamlit resume analyzer that scores resumes against job descriptions,
 </div>
 ---
  
-## 📊 GitHub Analytics
+📊 GitHub Analytics
  
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=salmanzzoha&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00c9ff&icon_color=00c9ff&text_color=c9d1d9" height="165" alt="GitHub stats"/>
@@ -95,10 +95,10 @@ Python + Streamlit resume analyzer that scores resumes against job descriptions,
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=salmanzzoha&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00c9ff&text_color=c9d1d9" height="165" alt="top langs"/>
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=salmanzzoha&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00c9ff&line=00c9ff&point=ffffff" alt="activity graph"/>
 </div>
----
+
  
 <div align="center">
-### 💬 *"Quality is not an act, it is a habit."*
+💬 "Quality is not an act, it is a habit." 
  
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00c9ff,50:2c5364,100:0f2027&height=120&section=footer" alt="footer"/>
 </div>
