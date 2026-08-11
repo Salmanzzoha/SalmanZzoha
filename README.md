@@ -33,7 +33,6 @@
 ```yaml
 role: Software Engineer
 education: "BSc in Computer Science & Engineering — AIUB"
-graduating: December 2026
 
 focus:
   - Software Quality Assurance
