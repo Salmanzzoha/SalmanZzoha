@@ -17,13 +17,36 @@
 ⚡ About Me
  
 ```yaml
-role: Final-Year Computer Science & Engineering Student
-university: American International University - Bangladesh (AIUB)
+role: Software Engineer
+education: "BSc in Computer Science & Engineering — AIUB"
 graduating: December 2026
-focus: [Software Quality Assurance, Test Automation, Site Reliability Engineering]
-minor: [Machine Learning, MIS]
-currently_exploring: [Jira, Postman, CI/CD Pipelines, Agile & Scrum]
-mission: "Engineering confidence into software, one test case at a time."
+
+focus:
+  - Software Quality Assurance
+  - Test Automation
+  - Site Reliability Engineering
+  - Backend Development
+
+minors:
+  - Machine Learning
+  - Management Information Systems
+
+technologies:
+  - Java
+  - Python
+  - JavaScript
+  - Node.js
+  - SQL
+  - Selenium
+  - REST APIs
+  - Git & GitHub
+
+currently_exploring:
+  - CI/CD
+  - Docker
+  - Cloud & DevOps
+  - Agile & Scrum
+  - API Testing
 ```
  
  🔬 Lead Author — IEEE PECCII 2026, MobileNetV3 deep learning framework
@@ -80,9 +103,9 @@ Python + Streamlit resume analyzer that scores resumes against job descriptions,
 </div>
 
  
-<div align="center">
 
-  
+
+<div align="center">
 💬 "Quality is not an act, it is a habit." 
  
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00c9ff,50:2c5364,100:0f2027&height=120&section=footer" alt="footer"/>
