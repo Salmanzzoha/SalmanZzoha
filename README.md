@@ -37,19 +37,19 @@ mission: "Engineering confidence into software, one test case at a time."
 <table>
 <tr>
 <td width="50%" valign="top">
-**🧱 E-Commerce Test Automation Suite**
+🧱 E-Commerce Test Automation Suite
 Selenium + Java + TestNG + Maven automation suite for a luxury e-commerce platform, built on the Page Object Model with a full metrics-backed test report.
  
 </td>
 <td width="50%" valign="top">
-📚 Library System QA Suite**
+📚 Library System QA Suite
 End-to-end Selenium automation (auth, admin approvals, borrow/return flows) for a PHP/MySQL library platform, delivered with an IEEE-829-style test plan.
  
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-🧬 Explainable Depression Detection**
+🧬 Explainable Depression Detection
 MentalBERT + Bi-LSTM with attention pooling for temporal depression risk detection across Reddit & Twitter, explained via SHAP and attention weights.
  
 </td>
