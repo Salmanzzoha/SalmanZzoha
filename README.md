@@ -74,16 +74,15 @@ Python + Streamlit resume analyzer that scores resumes against job descriptions,
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" height="48" alt="Selenium"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" height="48" alt="React"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="48" alt="Postman"/>
-<img src="https://www.vectorlogo.zone/logos/jira/jira-icon.svg" height="48" alt="Jira"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="48" alt="Git"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/streamlit/streamlit-original.svg" height="48" alt="Streamlit"/>
-<img src="https://img.icons8.com/color/48/agile.png" height="42" alt="Agile"/>
-<img src="https://img.icons8.com/color/48/scrumm.png" height="42" alt="Scrum"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maven/maven-original-wordmark.svg" height="42" alt="Maven"/>
 </div>
 
  
 <div align="center">
+
+  
 💬 "Quality is not an act, it is a habit." 
  
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00c9ff,50:2c5364,100:0f2027&height=120&section=footer" alt="footer"/>
